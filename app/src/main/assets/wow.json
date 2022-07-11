@@ -1,0 +1,3882 @@
+[
+ 
+  {
+    "name": "Termux Basic",
+    "detail": "After completing installation of Termux, then run these all commands. its specially for begginers:\n pkg update -y &&  pkg upgrade -y &&  pkg install python -y &&  pkg install python2 -y &&  pkg install fish -y && pkg install ruby -y && pkg install git -y &&  pkg install php -y &&  pkg install perl -y && pkg install nmap -y && pkg install bash -y && pkg install clang -y  && pkg install nano -y && pkg install w3m -y && pkg install hydra -y && pkg install figlet -y && pkg install cowsay -y && pkg install curl -y&& pkg install tar -y && pkg install zip -y && pkg install unzip -y && pkg install tor -y && pkg install wget -y && pkg install wcalc -y && pkg install bmon -y && pkg install golang -y && pkg install openssl -y && pkg install cmatrix -y && pkg install openssh -y && pkg install wireshark -y && pkg install toilet && pkg install sl && pkg install vim && pkg install tch && pkg install zsh && pkg install fortune && pkg install zsh && apt update && apt upgrade "
+  },
+  {
+    "name": "Termux Shell",
+    "detail": "Beautify your Termux App .\n Installation & Usage\n \n $ apt update  \n $ apt install git -y \n $ git clone https://github.com/htr-tech/termux-shell.git \n $ cd termux-shell            \n $ chmod +x *  \n $ sh install.sh \n $ exit"
+  },
+  {
+	"name": "Snap",
+	"detail": "Snap is a bash based script for zsh based termux and from this tool you can do many things like backup termux and restoring backups and etc.. this tool works on both rooted and non-rooted devices so you can use it wihtout any issues.
+
+AVAILABLE ON :
+
+Termux
+
+TESTED ON :
+
+Termux
+
+REQUIREMENTS :
+
+internet
+
+external storage permission
+
+storage 400 MB
+
+1gb ram
+
+FEATURES :
+
+[+] Backup any core tool !
+
+[+] Updated maintainence !
+
+[+] Easy for beginners !
+
+[+] Perfect tool for termux !
+
+INSTALLATION [Termux] :
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ git clone https://github.com/noob-hackers/snap
+
+$ cd $HOME
+
+$ ls
+
+$ cd snap
+
+$ ls
+
+$ bash snap.sh
+
+Now enjoy from tool..."
+	 
+},{
+	"name": "Cctv camera Best tool",
+	"detail": "How to CCTV Camera H4¢k for 9 Location to Termux.
+		 
+
+$  apt update && apt upgrade
+
+$   pkg install python2
+
+$  git clone https://github.com/kancotdiq/ipcs.git
+
+$  ls
+
+$   cd ipcs
+
+$   ls
+
+$   chmod +x scan.py
+
+$   ls
+
+$   python2 scan.py
+"
+	 
+},{
+	"name": "WhatsApp with QRL H4©king",
+	"detail": "QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty att@ck vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers. 
+
+
+Installation :
+
+$ apt update && apt install git
+
+$ apt install python && apt install python3
+
+$ pip install --upgrade pip
+
+$ git clone https://github.com/OWASP/QRLJacking.git
+
+$ cd QRLJacking
+
+$ cd QRLJacker
+
+$ chmod +x *
+
+$ pip install -r requirements.txt
+
+$ python3 QrlJacker.p"
+	 
+},{
+	"name": "Facebook H4©k Tool",
+	"detail": "New Faceb00k H4¢king Tool for Termux.
+
+
+$  apt upgrade && apt update
+
+$  apt install pythen2 git
+
+$  git clone https://github.com/nasirxo/AK47
+
+$  ls
+
+$  cd AK47
+
+$  chmod +x *
+
+$  ls
+
+$  python2 ak47.py"
+	 
+},{
+	"name": "Wifi H4©k Tool",
+	"detail": "How to H4¢k Wifi WPA,WPA2,WPA2 PSK  in Tremux.
+
+
+$  apt update && apt upgrade -y
+
+$  apt install git
+
+$  apt install python2
+
+$  git clone https://github.com/derv82/wifite.git
+
+$  ls
+
+$  cd wifite
+
+$  python2 wifite.py       [open first page]
+
+$   git clone https://github.com/derv82/wifite2
+
+$  ls
+
+$  cd wifite2
+
+$  ls
+
+$  python2 Wifite.py"
+	 
+},{
+	"name": "Device Location Finder",
+	"detail": "by the using of following commands we can find our lose device location.
+
+$ apt update && apt upgrade
+
+$ pkg install wget
+
+$ gem install lolcat
+
+$ pkg install php
+
+$ pkg install toilet
+
+$ git clone https://github.com/sparkz-technology/Target.git
+
+$ cd Target
+
+$ ls
+
+$ chmod +x Target.sh
+
+$ bash Target.sh"
+	 
+},{
+	"name": "Check covid Updates with Termux",
+	"detail": "Corona Live Report View Use Termux, Terminal 
+
+Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain.
+
+Installed 
+
+$  apt install nodejs
+
+$  npm install -g corona-cli
+
+$  corona
+
+---------------------------------------------------
+# Display the help data.
+$  corona help 
+$  corona --help"
+	 
+},{
+	"name": "A-Rat Remote Access",
+	"detail": "A-Rat = Remote access tool
+
+we can generate python based rat
+
+installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/Xi4u7/A-Rat
+
+$ cd A-Rat
+
+$ chmod +x *
+
+usage :
+
+$ python2 A-Rat.py
+
+$ help
+
+$ set host 127.0.0.1 [your ip]
+
+$ set port 1337
+
+$ set output /$HOME/rat.py
+
+$ generate
+
+It generates rat.py in termux home directory
+
+Open termux new session 
+
+type $ ls
+
+here you get that rat.py 
+
+go to again A-Rat means privious session of termux
+
+Type run to start exploit.
+
+$ run
+
+and then open new session and run rat like this
+
+$ python rat.py
+
+and come back to A-Rat session 
+
+Now its connected to that rat. means H@¢ked.
+
+press control + c to stop"
+	 
+},
+{
+	"name": "Pubg P!$HING",
+	"detail": "With the help of bellow commands we can generate Ph!$hing url for PUB-G.
+
+Install one by one:
+
+$ pkg update -y
+
+$ pkg upgrade -y
+
+$ pkg install git 
+
+$ git clone https://github.com/OnlineHacKing/PUBG-Phishing.git
+
+$ cd PUBG-Phishing
+
+$ chmod +x *
+
+$ ./Android-Setup
+
+now copy and send the link to your friend or victem.
+"
+	 
+},{
+	"name": "Free-Fire P!$HING",
+	"detail": "By using the following commands we can generate Ph!$hing url for Free-Fire.
+
+$ pkg update -y
+
+$ pkg upgrade -y 
+
+$ pkg install git 
+
+$ git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git 
+
+$ cd FreeFire-Phishing 
+
+$ chmod +x *
+
+$ ./Android-Setup
+"
+	 
+},{
+	"name": "Choice Bot[Instagram Tool]",
+	"detail": "Choicebot is a bot written in Shell Script (the first one) to perform 'likes', 'comments' and 'follows' based on hastags.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install curl
+
+$ apt install nano
+
+$ git clone https://github.com/thelinuxchoice/choicebot
+
+$ cd choicebot
+
+$ chmod +x *
+
+usage :
+
+$ nano hashtags.txt (put your hashtags here)
+
+$ ./choicebot.sh"
+	 
+},{
+	"name": "Termux shell",
+	"detail": "Beautify your Termux App .
+
+Installation & Usage
+
+$ apt update
+
+$ apt install git -y
+
+$ git clone https://github.com/htr-tech/termux-shell.git
+
+$ cd termux-shell
+
+$ chmod +x *
+
+$ sh install.sh
+
+$ exit"
+	 
+},{
+	"name": "Login Termux",
+	"detail": "Log in into ur Termux by using bellow commands.
+
+$ apt update
+
+$ apt install git -y
+
+$ pkg install git clone https://github.com/htr-tech/termux-login.git
+
+$ cd termux-login
+
+$ chmod +x *
+
+$ sh install.sh
+
+$ exit
+
+now enjoy from ur Termux."
+	 
+},{
+	"name": "Termux Key",
+	"detail": "Termux Key is a tool to Add different shortcut keys to termux app.
+
+
+$ apt update
+
+$ apt install git -y
+
+$ pkg install git 
+
+$ git clone https://github.com/htr-tech/termux-key
+
+$ cd termux-key
+
+$ bash key.sh"
+	 
+},{
+	"name": "Build apks with Termux",
+	"detail": "Android APK sample sources that build in Termux on Android. This repository is a submodule for buildAPKs.
+
+
+Installation Of Git Package:
+
+$ pkg install git
+
+$ git clone https://github.com/sdrausty/buildAPKs
+
+$ cd buildAPKs
+
+To install it in its proper place, copy and paste the following into Termux.
+
+$ pkg install git submodule init
+
+$ pkg install git submodule update sources/samples"
+	 
+},{
+	"name": "Termux Theme",
+	"detail": "Termux-ohmyzsh implements oh-my-zsh on your Termux app,
+as well as some color schemes (most are from Gogh), and some Powerline fonts
+You guys can easily change termux user interface
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git
+
+$ git clone https://github.com/Cabbagec/termux-ohmyzsh
+
+$ cd termux-ohmyzsh
+
+$ chmod +x *
+
+Run :
+
+$ ./install.sh 
+
+Now select theme = type number select font = type number
+
+Now your Termux interface hasbeen changed!
+
+"
+	 
+},{
+	"name": "Find your all tools in Termux",
+	"detail": "How To Find Termux All Tools
+
+
+$ ls
+
+CMSeeK knock termux-lazysqlmap ToolB0x p€ntest
+
+$ cd ..
+
+$ ls
+
+home usr
+
+$ cd usr
+
+$ ls
+
+bin include libexec src var etc lib share tmp
+
+$ cd src
+
+$ ls
+
+libsqlite
+
+$ cd ..
+
+$ cd bin
+
+$ ls
+"
+	 
+},{
+	"name": "200 Tools",
+	"detail": "with the following commands we can install 200+ tools in Termux.
+
+
+let's install one by one:
+
+$ apt update && apt upgrade -y
+
+$ apt install git
+
+$ apt install php
+
+$ apt install curl
+
+$ apt install ruby
+
+$ apt install figlet
+
+$ apt install python2
+
+$ gem install lolcat
+
+$ git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+
+$ cd TOOLSINSTALLERv3
+
+$ chmod +x TUANB4DUT.sh
+
+$ sh TUANB4DUT.sh
+"
+	 
+},{
+	"name": "Black_Eye",
+	"detail": "The most complete Ph!$h!ng Tool, with 32 templates +1 customizable
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git
+
+$ apt install curl
+
+$ git clone https://github.com/thelinuxchoice/blackeye
+
+$ cd blackeye
+
+$ chmod +x *
+
+Run :
+
+$ bash blackeye.sh
+
+Now select your option it will generate an url for P!$h!ng..
+"
+	 
+},{
+	"name": "Cmseek Suit",
+	"detail": "CMS Detection and Exploitation suite - Sc@n WordPress, Joomla, Drupal and 100 other CMSs
+
+Functions Of CMSeek :
+
+Basic CMS Detection of over 80 CMS
+Drupal version detection
+Advanced Wordpress Sca@ns
+Detects Version
+User Enumeration
+Plugins Enumeration
+Theme Enumeration
+Detects Users (3 Detection Methods)
+Looks for Version Vulnerabilities and much more!
+Advanced Joomla Sc@ns
+Version detection
+Backup files finder
+Admin page finder
+Core vulnerability detection
+Directory listing check
+Config leak detection
+Various other checks
+Modular bruteforce system
+Use pre made bruteforce modules or create your own and integrate with it
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/Tuhinshubhra/CMSeeK
+
+$ cd CMSeeK
+
+$ chmod +x *
+
+Run : 
+
+$ python cmseek.py 
+
+here select your option and use.."
+	 
+},{
+	"name": "Crips ip Tools",
+	"detail": "This Tools is a collection of online IP Tools that can be used to quickly g€t information about IP Address's, Web Pages and DNS records.
+
+Menu :
+
+Whois lookup
+Traceroute
+DNS Lookup
+Reverse DNS Lookup
+GeoIP Lookup
+Port Scan
+Reverse IP Lookup
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/Manisso/Crips
+
+$ cd Crips
+
+$ chmod +x *
+
+$ ./install.sh
+
+Run :
+
+$ python2 crips.py
+
+Now select your option, this tool can guide you easily..
+"
+	 
+},{
+	"name": "Cyber Scan",
+	"detail": "CyberScan is an open source penetration testing tool 
+
+that can analyse packets , decoding , scanning ports, 
+
+pinging and geolocation of an IP including
+
+(latitude, longitude , region , country ...)
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/medbenali/CyberScan.git
+
+$ cd CyberScan
+
+usage :
+
+$ python2 CyberScan.py -v
+
+$ CyberScan -h
+
+We can perform ping operations with several protocols using CyberScan
+
+The fastest way to discover hosts on a local Ethernet network
+
+is to use ARP:
+
+$ python2 CyberScan -s 192.168.1.0/24 -p arp
+
+In case when ICMP echo requests are blocked, we can still use TCP:
+
+$ CyberScan -s 192.168.1.105 -p tcp -d 80
+
+192.168.1.105 = target IP"
+	 
+},{
+	"name": "Dos-webserver Tools",
+	"detail": "Dost = WebServer Att@¢king Tools
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/verluchie/dost-attack
+
+$ cd dost-attack
+
+$ chmod 777 install.sh
+
+$ ./install.sh
+
+Run :
+
+$ ./dost
+
+It shows how you can use this tool...
+
+*FOR MORE TERMUX TOOLS AND LINUX COMMANDS DOWNLOAD THIS APP👇*
+https://play.google.com/store/apps/details?id=com.termux.linux.tools.commands
+[17/02, 9:23 pm] ARsLaN: D-Tect
+D-TECT is an All-In-One Tool for Penetration Testing. 
+
+This is specially programmed for Penetration Testers and Security Researchers 
+
+to make their job easier, instead of launching different 
+
+tools for performing different task. D-TECT provides multiple 
+
+features and detection features which gather target information
+
+and finds different flaws in it.
+
+Features:
+
+Sub-domain Scanning
+
+Port Scanning
+
+Wordpress Scanning
+
+Wordpress Username Enumeration
+
+Wordpress Backup Grabbing
+
+Sensitive File Detection
+
+Same-Site Scripting Scanning
+
+Click Jacking Detection
+
+Powerful XSS vulnerability scanning
+
+SQL Injection vulnerability scanning
+
+User-Friendly UI
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ git clone https://github.com/shawarkhanethicalhacker/D-TECT
+
+$ cd D-TECT
+
+$ chmod +x *
+
+$ pip2 install requests
+
+usage :
+
+$ python2 d-tect.py
+
+Now select your options to use that particular tool..."
+	 
+},{
+	"name": "IP Geolocation",
+	"detail": "Retrieve IP Geolocation information 
+
+Features
+
+Retrieve IP or Domain Geolocation.
+
+Retrieve your own IP Geolocation.
+
+Retrieve Geolocation for IPs or Domains loaded from file. 
+
+Each target in new line.
+
+Define your own custom User Agent string.
+
+Select random User-Agent strings from file.
+
+Each User Agent string in new line.
+
+Proxy support.
+
+Select random proxy from file. Each proxy URL in new line.
+
+Open IP geolocation in Google Maps using the default browser.
+
+Export results to csv, xml and txt format.
+
+# Geolocation Information :
+
+1.ASN
+
+2.City
+
+3.Country
+
+4.Country Code
+
+5.ISP
+
+6.Latitude
+
+7.Longtitude
+
+8.Organization
+
+9.Region Code
+
+10.Region Name
+
+11.Timezone
+
+12.Zip Code
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python
+
+$ git clone https://github.com/maldevel/IPGeoLocation
+
+$ cd IPGeoLocation
+
+$ chmod +x *
+
+$ pip install -r requirements.txt
+
+Usage :
+
+$ python ipgeolocation.py -t [target ip]
+
+it gives you all information related to your target...
+"
+	 
+},{
+	"name": "Xerxes Dos Tools",
+	"detail": "XERXES the most powerful DoS tool
+
+Installation:
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install clang
+
+$ git clone https://github.com/zanyarjamal/xerxes
+
+$ cd xerxes
+
+$ chmod +x *
+
+usage :
+
+$ clang xerxes.c -o xerxes
+
+$ ./xerxes www.fakesite.com 80
+
+now enjoy from tool..."
+	 
+},{
+	"name": "W Root User in Termux",
+	"detail": "with the following commands we can become A root user in Termux.
+
+$ cd termux-sudo
+
+$ pkg install ncurses-utils
+
+$ pkg install tsu
+
+$ cat sudo > /data/data/com.termux/files/isr/bin/sudo
+
+$ chmod 700 /data/data/com.termux/files/usr/bin/sudo
+
+$ sudo su
+
+$ sudo tsu"
+	 
+},{
+	"name": "Word List Generator",
+	"detail": "Generateing wordlist using python.
+
+Execute these commands one by one to install sudo.
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install python
+
+$ pip install wordlist
+
+$ wordlist -h [to see all options]
+
+$ wordlist -m 4 -M 6 -o wordlist.txt 12345678
+
+-m = minimum length
+
+-M = maximum length
+
+wordlist.txt = to save all words
+
+12345678 = here you can type alphabets also to make wordlist.
+
+type this command : $ ls
+
+here you get that file
+
+name : wordlist.txt
+
+now open this file type this command :
+
+$ cat wordlist.txt
+
+here you get all words means passwords list..."
+	 
+},{
+	"name": "Tool-X",
+	"detail": "Tool-x is a tool for Termux users
+
+we can install some kali linux tools with this tool
+
+follow these steps to install this tool in Termux
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ git clone https://github.com/Rajkumrdusad/Tool-X
+
+$ cd Tool-X
+
+$ chmod +x *
+
+$ sh install.aex
+
+usage :
+
+To run this tool type 
+
+$ Tool-X
+
+Now select or type number to install any tool...
+"
+	 
+},{
+	"name": "TM-Venom",
+	"detail": "Tmvenom is a python based tool specially designed for Termux users.
+
+This payload generates some basic payloads using metasploit-framework.
+
+so You must install metasploit framework on your Termux.
+
+This tool works both rooted and non rooted devices.
+
+This is very helpfull for beginners.
+
+this tool also guide you to generate payloads easily
+
+Requirments:-
+
+Termux App
+
+metasploit-framework
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/TechnicalMujeeb/tmvenom
+
+$ cd tmvenom
+
+$ chmod +x *
+
+$ sh install.sh
+
+usage :
+
+$ python2 tmvenom.py
+
+Now select payload options and you can easily generates payloads."
+	 
+},{
+	"name": "Make a call with Termux",
+	"detail": "Tmvenom is a python based tool specially designed for Termux users.
+
+This payload generates some basic payloads using metasploit-framework.
+
+so You must install metasploit framework on your Termux.
+
+This tool works both rooted and non rooted devices.
+
+This is very helpfull for beginners.
+
+this tool also guide you to generate payloads easily
+
+Requirments:-
+
+Termux App
+
+metasploit-framework
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/TechnicalMujeeb/tmvenom
+
+$ cd tmvenom
+
+$ chmod +x *
+
+$ sh install.sh
+
+usage :
+
+$ python2 tmvenom.py
+
+Now select payload options and you can easily generates payloads"
+	 
+},{
+	"name": "Sms + call Bomber",
+	"detail": "Use it only for funn...
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/TheSpeedX/TBomb
+
+$ cd TBomb
+
+$ chmod +x *
+
+$ ./TBomb.sh
+
+Installation complete.
+
+Now select ur victem number and enjoy..."
+	 
+},{
+	"name": "Santet-online",
+	"detail": "Features :
+
+1.netcat payload
+
+2.fb group hijacking
+
+3.sms-bomber
+
+4.sms-spoof
+
+5.dos att@ck
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ pip2 install requests
+
+$ git clone https://github.com/Gameye98/santet-online
+
+$ santet-online
+
+$ chmod +x *
+
+usage :
+
+$ python2 santet.py
+
+Now it shows all tool simply type number to use that tool...
+"
+	 
+},{
+	"name": "Password Generator",
+	"detail": "Password-GeneratorPassGen = is a tool which generates a custom passwords 
+
+with 20+ char ,easy to remember and cannot be bruteforced 
+
+[ passwords generated by PassGen have following features ]
+
+.password cannot be brute forced
+
+..it generates strong passwords
+
+...easy to remember
+
+....high entropy
+
+.....padding between the words
+
+......custome names
+
+.......20+ chracters
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python
+
+$ git clone https://github.com/TechnicalMujeeb/PassGen
+
+$ PassGen
+
+$ chmod +x *
+usage :
+
+$ python passgen.py
+
+Now enter name : text
+
+Now its generates passwords. 
+
+you guys can use these passwords in your accounts also."
+	 
+},{
+	"name": "Metasploit framework",
+	"detail": "If you wish to install the metasploit-framework all by itself
+
+You can use a shell script to install it.
+
+remember dont turn off your internet connection
+
+follow these steps :
+
+1. uninstall termux app
+
+2. Newly install Termux app
+
+3. open Termux app
+
+4. run these commands 
+
+$ apt update
+
+$ apt upgrade
+
+$ apt install wget
+
+5. clone metasploit with this command 
+
+$ wget https://Auxilus.github.io/metasploit.sh
+
+$ bash metasploit.sh
+
+This script will install the latest version of metasploit-framework.
+
+script also include some extras to make updating metasploit faster.
+
+If all goes well, i.e. No red colored warnings,
+
+you can start metasploit using ./msfconsole.
+
+Now take a coffe and sit down and wait 15-20 minutes 
+
+to install metasploit in termux
+
+after installation type this command :
+
+$ cd metasploit-framework
+
+Now run msfconsole 
+
+$ ./msfconsole
+
+Enjoy metasploit...."
+	 
+},{
+	"name": "Matrix Effect",
+	"detail": "Make matrix effect in termux ..h@¢ker look in termux
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install cmatrix
+
+usage :
+
+Type cmatrix to start matrix effect
+
+$ cmatrix"
+	 
+},{
+	"name": "Hakku Framework",
+	"detail": "
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install python
+
+$ git clone https://github.com/4shadoww/hakkuframework
+
+$ cd hakkuframework
+
+$ chmod +x *
+
+Usage :
+
+$ python hakku"
+	 
+},{
+	"name": "MR-PH!$H Tool",
+	"detail": "REQUIREMENTS :
+internet 400
+php
+storage 600 MB
+ngrok Token
+FEATURES :
+
+[+] 60+ uptodate pages !
+[+] Updated maintainence !
+[+] 1 Port Forwarding Option !
+[+] No link issues, timing !
+[+] 5+ categories in pages !
+[+] Easy for Beginners !
+
+
+INSTALLATION [Termux] :
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ git clone https://github.com/noob-hackers/mrphish
+
+$ cd $HOME
+
+$ ls
+
+$ cd mrphish
+
+$ ls
+
+$ bash setup
+
+$ bash mrphish
+
+Now enjoy from this tool..."
+	 
+},{
+	"name": "Grab-cam Tool",
+	"detail": "Grabcam is a bash based script which is officially made for termux from this tool can h@*k you victims c@mera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
+
+AVAILABLE ON :
+
+Termux
+
+TESTED ON :
+
+Termux
+
+
+INSTALLATION [Termux] :
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ git clone https://github.com/noob-hackers/grabcam
+
+$ cd $HOME
+
+$ ls
+
+$ cd grabcam
+
+$ ls
+
+$ bash grabcam.sh
+
+to see captured images >>> ls mv (image name with .png) /sdcard
+
+Now go and chek your gallery for victim im@ge..."
+	 
+},{
+	"name": "Lock-P!$H Tool",
+	"detail": "H@cklock is a bash based script which is officially termux from this tool in just one click you can generate pattern ph!$hing tool which can h4ck victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
+
+INSTALLATION [Termux] :
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ git clone https://github.com/noob-hackers/hacklock
+
+$ cd $HOME
+
+$ ls
+
+$ cd hacklock
+
+$ ls
+
+$ bash setup
+
+$ bash hacklock.sh
+
+[+]--Now you need internet connection to continue further process and Turn on your device hotspot to get link... 
+[+]--You will recieve patter pin in below image you can see pattern with numbers 
+"
+	 
+},{
+	"name": "Kalimux",
+	"detail": "Kalimux is a bash based script which automatically installs kali linux in termux without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
+
+AVAILABLE ON :
+
+Termux
+
+TESTED ON :
+
+Termux
+
+REQUIREMENTS :
+
+internet
+
+1GB storage
+
+storage 400 MB
+
+vnc vivewer app
+
+FEATURES :
+
+[+] Stable and latest !
+
+[+] Gui in android !
+
+[+] Real time kali linux !
+
+[+] Easy for Beginners !
+
+INSTALLATION [Termux] :
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ git clone https://github.com/noob-hackers/kalimux
+
+$ cd $HOME
+
+$ ls
+
+$ cd kalimux
+
+$ ls
+
+$ sh kalimux.sh
+
+* So after installtion completes the text files will occur just copy it by long click on text 
+
+$ ./start-kali.sh
+
+Now linux has been installed succesfullly in termux without root. But wait if you like to use kali linus as GUI in your android device then you need to download a application called VNC viewer after downloading that. just start kali linux in termux and paste that copied text in that and wait for it to install complete linux os in termux. After installation completes just apply this command in kali 
+
+$ vncserver-start
+
+Now the server starts on host 127.0.0.1:5901 
+
+Now open VNC viewer and click on + icon and create host access Now the the gui of kali linux has been started in VNC viewer so start practising now...... Note:- Don't remove termux from background while using kali linux in VNC viwer beacuse the vnc host files are present in termux app so. 
+[+]--Now you need internet connection to continue further process...
+[+]--You can select any option by clicking on your keyboard 
+
+
+"
+	 
+},{
+	"name": "IP-Drone",
+	"detail": "Ipdrone is a simply python script, which can be used to Ip lookup and to get information of perticu@lr t@rget Ip. This tool works on both rooted Android device and Non-rooted Android device.
+
+INSTALLATION [Termux] :
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ pip install requests
+
+$ git clone https://github.com/noob-hackers/ipdrone
+
+$ cd $HOME
+
+$ ls
+
+$ cd ipdrone
+
+$ ls
+
+$ python ipdrone.py -v (your victim ip here)
+
+ex:- python ipdrone.py -v 127.0,0.1
+"
+	 
+},{
+	"name": "INFECT",
+	"detail": "Infect is a bash based script which is officially made for termux users and from this tool you can spread android v!®us by just send!ng link. This tool works on both rooted Android device and Non-rooted Android device.
+
+INSTALLATION [Termux] :
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ git clone https://github.com/noob-hackers/infect
+
+$ cd $HOME
+
+$ ls
+
+$ cd infect
+
+$ ls
+
+$ bash infect.sh
+
+now enjoy from tool..."
+	 
+},{
+	"name": "ZP!$HER",
+	"detail": "A beginners friendly, Automated ph!$hing tool with 30+ templates.
+
+Installation
+
+$ apt update
+
+$ apt upgrade
+
+$ apt install python
+
+$ apt install git
+
+$ git clone git://github.com/htr-tech/zphisher.git 
+
+Change to cloned directory and run
+
+$ zphisher.sh
+
+$ cd zphisher 
+
+$ bash zphisher.sh 
+
+On first launch, It'll install the dependencies and that's it.Zph!$her is installed.
+"
+	 
+},{
+	"name": "Tunnel",
+	"detail": "Tunnel is a bash based script which is made for ngrok users of termux from this tool in just one click you can do lot more. This tool works on both rooted Android device and Non-rooted Android device.
+
+AVAILABLE ON :
+
+Termux
+
+TESTED ON :
+
+Termux
+
+REQUIREMENTS :
+
+internet
+
+storage 400 MB
+
+ngrok Token
+
+FEATURES :
+
+[+] Best tunnel for termux !
+
+[+] Updated maintainence !
+
+[+] Booting option !
+
+[+] Easy for Beginners !
+
+INSTALLATION [Termux] :
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ git clone https://github.com/noob-hackers/tunnel
+
+$ cd $HOME
+
+$ ls
+
+$ cd tunnel
+
+$ ls
+
+$ bash tunnel.sh
+
+Now enjoy the tool...
+"
+	 
+},{
+	"name": "T-Style",
+	"detail": "T Style is a tool to change Font & color Schemes of Termux App.This Tool is created for Educational Purpose only.All fonts are taken from Termux Styling.
+
+[+] Installation :
+
+$ apt update
+
+$ apt install git -y
+
+$ git clone https://github.com/htr-tech/tstyle
+
+$ cd tstyle
+
+$ bash setup.sh
+
+[~] type tstyle to run this tool.
+
+[+] Features :
+
+[+] Latest Fonts & Themes !
+
+[+] Full Offline !
+
+[+] Easy to Use !"
+	 
+},{
+	"name": "MBomb",
+	"detail": "MBomb means Mail-Bomb and it's works for Sending Unlimited Mail. You can send unlimited message Gmail to Gmail.
+
+How to use:
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ git clone https://github.com/palahsu/MBomb
+
+$ cd MBomb
+
+$ ls
+
+$ python MBomb.py or python2 MBomb.py
+
+Now ejoy from tool...
+"
+	 
+},{
+	"name": "T-Load",
+	"detail": "T-LOAD is available for
+
+Termux
+
+Installation and usage guide:
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install git -y
+
+$ git clone https://github.com/ExpertAnonymous/T-LOAD
+
+$ ls
+
+$ cd T-LOAD
+
+$ ls
+
+$ bash t-load.sh
+
+Now make sure that you internet connection is on and after that the installation starts automatically
+
+After the installation succesfully completes you will see a THANKS text on screen after that a new text appears
+
+EXIT FROM TERMUX AFTER 5 SECONDS AND RE-OPEN IT after seeing this just exit from termux and re open it
+
+Now you can see a new loading screen of termux and you can feel real h@¢king terminal.
+To revert/to get back into normal termux mode use this commands
+
+$ cd T-LOAD
+
+$ ls 
+
+$ bash rvt.sh"
+	 
+},{
+	"name": "T-Backup/Restore Tool",
+	"detail": "TERBR - A TERMUX BACKUP/RESTORE TOOL
+
+
+Backup Termux and Restore with just one command. Choose a directory to save backup and easily find them.
+
+Installation:
+
+Just enter following command:
+Install pigz(recommended) to reduce time in backup and restore
+
+$ wget https://raw.githubusercontent.com/MrAlpha786/TERBR-TermuxBackupTool/master/terbr && chmod u+x terbr && mv terbr 
+$PREFIX/bin/
+
+or
+
+$ curl -O https://raw.githubusercontent.com/MrAlpha786/TERBR-TermuxBackupTool/master/terbr && chmod u+x terbr && mv terbr $PREFIX/bin/
+
+Usage:
+
+Run
+
+terbr"
+	 
+},{
+	"name": "H4©k Voice",
+	"detail": "With the help of this Tool we can H@©k any android device Voice ®ecorder.
+
+Installation:
+
+$ apt update && upgrade
+
+$ apt install python
+
+$ apt install git
+
+$ git clone git://github.com/Noob-Junk/voice.git
+
+$ ls 
+
+$ cd voice 
+
+$ ls 
+
+$ bash voice.sh
+
+Now enjoy the tool...
+"
+	 
+},{
+	"name": "Short-url",
+	"detail": "Short Url is a tool to short url.This tool uses TinyURL's Ap!. It is created for Educational Purpose only.
+
+
+[+] Installation:
+
+$ apt update
+
+$ apt install git -y
+
+$ git clone https://github.com/htr-tech/shorturl
+
+$ cd shorturl
+
+$ bash setup.sh
+
+Type shorturl or ShortUrl to run the Tool.
+"
+	 
+},{
+	"name": "Lucifer",
+	"detail": "with use of this tool, we can increase in$t@gr@m followers.
+
+How to Install:
+
+$ apt update
+
+$ apt upgrade
+
+$ apt install git
+
+$ git clone https://github.com/rixon-cochi/Lucifer.git
+
+$ ls
+
+$ cd Lucifer
+
+$ chmod +x *
+
+$ bash setup.sh
+
+$ ls
+
+$ bash instacracker.sh
+
+Now enjoy from tool...
+"
+	 
+},{
+	"name": "Qurxin",
+	"detail": "Qurxin is Termux banner or interface with parroto os $hell and Wellcome robot like Jarvis in Iron Man movie created with love.
+
+[+] Installation & Usage
+
+$ apt update && upgrade -y
+
+$ pkg install git 
+
+$ python mpv figlet -y 
+
+$ pip install lolcat
+
+$ git clone https://github.com/fikrado/qurxin 
+
+$ cd qurxin 
+
+$ chmod +x * sh
+
+$  install.sh
+
+$ exit
+
+now enjoy from tool...
+"
+	 
+},{
+	"name": "Saycheese",
+	"detail": "The best tool for to H4¢k front camera of any Android.
+
+Installation:
+
+$ apt update && upgrade -y
+
+$ apt install python
+
+$ apt install python2
+
+$ apt install git
+
+$ git clone https://github.com/Technicalheadquarter/saycheese 
+
+$ cd saycheese chmod +x
+
+$  saycheese.sh 
+
+$ ./saycheese.sh
+
+Now enjoy from tool...
+"
+	 
+},{
+	"name": "Adv Ph!$h",
+	"detail": "The best tool for many social media. like tik-tok, whats-app, pub-g etc...
+
+INSTALLATION [ TERMUX APP --ANDROID ]
+
+
+$ apt update && upgrade -y
+
+$ apt install python2
+
+$ apt install git
+
+$ git clone https://github.com/Ignitetch/AdvPhishing.git
+
+$ cd AdvPhishing/
+chmod 777 *
+
+$ ./Android-Setup.sh
+
+$ ./AdvPhishing.sh
+
+Now enjoy from tool..."
+	 
+},{
+	"name": "Email Bomber",
+	"detail": "Stands for Simple Mail Transfer Protocol. This is the protocol used for sending e-mail over the Internet. Your e-mail client (such as Outlook, Eudora, or Mac OS X Mail) uses SMTP to send a message to the mail server, and the mail server uses SMTP to relay that message to the correct receiving mail server.
+
+Usage:
+
+For Termux
+
+$ pkg install git 
+
+$ pkg install python 
+
+$ git clone https://github.com/coderatul/email_bomber_script_in_python_by_coderatul 
+
+$ ls 
+
+$ cd email_bomber_script_in_python_by_coderatul 
+
+now enjoy and use the tool...
+"
+	 
+},{
+	"name": "Pure blood framework",
+	"detail": "A Penetration Testing Framework created for H@¢kers / Pentester / Bug HunterWeb Pentest 
+
+Information Gathering:
+
+Banner Grab
+Whois 
+Traceroute 
+DNS Record 
+Reverse DNS Lookup 
+Zone Transfer Lookup 
+Port Scan 
+Admin Panel Scan 
+Subdomain Scan 
+CMS Identify 
+Reverse IP Lookup 
+Subnet Lookup 
+Extract Page Links 
+Directory Fuzz (NEW) 
+File Fuzz (NEW) 
+Shodan Search (NEW) 
+Shodan Host Lookup (NEW)
+Web Application Attack: (NEW)
+Wordpress 
+Auto SQL Injection 
+
+Generator:
+
+Deface Page 
+Password Generator
+Text To Hash
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/cr4shcod3/pureblood
+
+$ cd pureblood
+
+$ chmod +x *
+
+$ pip install -r requirements.txt
+
+Run : 
+
+$ python2 pureblood.py
+
+Now select your option, this tool will guide you...
+"
+	 
+},{
+	"name": "Golden_eye",
+	"detail": "GoldenEye
+
+GoldenEye is an python app for S€CURITY TESTING PURPOSES ONLY!
+
+GoldenEye is a HTTP DoS Test Tool.
+
+Attack Vector exploited: HTTP Keep Alive + NoCache
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ git clone https://github.com/jseidl/GoldenEye
+
+$ cd GoldenEye
+
+$ chmod +x *
+
+Run :
+
+$ python2 goldeneye.py [url]
+"
+	 
+},{
+	"name": "Dark Fly",
+	"detail": "DarkFly-Tool is an installation tool for installing tools.
+
+this tool makes it easy for you. so you don't need to type git clone 
+
+or look for the github repository. You only have to choose the number. 
+
+which tool you want to install. there are 530 tools ready for intall. 
+
+and for those of you who like to have fun. 
+
+there are 7 SMS sp@m tools that are ready to use, you just need to choose sp@m to use the target number. 
+
+there is a tocopedia DLL, and yesterday the DarkFly tool only supports termux.
+
+now it supports Linux OS and can be installed on ubuntu and termux, even though I only combine it. 
+
+at least I can satisfy and make it easier for all of you :) Good
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ git clone https://github.com/Ranginang67/DarkFly-Tool
+
+$ cd DarkFly-Tool
+
+$ chmod +x *
+
+$ sh install
+
+Run :
+
+$ DarkFly
+
+Now select your optoion, it will install your selected tool ..
+"
+	 
+},{
+	"name": "Termux kalinethunter",
+	"detail": "Termux Nethunter for Termux users
+
+we can run some linux root tools with this nethunter in Termux
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ git clone https://github.com/Hax4us/Nethunter-In-Termux
+
+$ cd Nethunter-In-Termux
+
+$ chmod +x *
+
+./kalinethunter
+
+Now select your architecture 
+
+Now type this command to start 
+
+$ startkali
+Compulsory Steps For First Time Use
+
+So after startkali
+
+execute this command
+
+$ apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6
+
+Now its time to update
+
+$ apt-get update
+
+"
+	 
+},{
+	"name": "Download Facebook videos",
+	"detail": "Facebook Video Downloader (CLI) For Linux Systems Coded in PHP
+
+with the help of this script you guys can download facebook videos by pasteing video url in termux.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install php
+
+$ git clone https://github.com/Tuhinshubhra/fbvid
+
+$ cd fbvid
+
+Run :
+
+$ php fb.php
+
+first here paste fb video url
+
+Now here give a name to your video, it will start downloading your video and saved in current directory.
+
+If you want to watch your downloaded video then move this video to sdacrd using mv command 
+
+$ mv video.mp4 /sdcard/
+
+Now your video has moved to sdcrad, go to your sdcard and watch it ....
+"
+	 
+},{
+	"name": "Dark sploit",
+	"detail": "Execute these commands one by one to install DarlSploit.
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python
+
+$ apt install python2
+
+$ git clone https://github.com/LOoLzeC/DarkSploit
+
+$ cd DarkSploit
+
+$ cd install
+
+$ sh installtermux.sh
+
+$ pip2 install -r requirements.txt
+
+$ cd ..
+
+Now Run DarkSploit : 
+
+python2 DrXp.py
+
+DarkSploit commands :
+
+$ show options
+
+$ show exploits
+
+$ use exploits
+
+Here you get all options to use this tool.
+"
+	 
+},{
+	"name": "Termux wafwoof",
+	"detail": "WAFW00f is the inbuilt tool in Kali distribution or
+
+else you can install it manually.
+
+we can install this tool in termux also
+
+It can detect around Top 22 web application firewall,
+
+so wafw00f is a phase of information gathering initially.
+
+follow these steps :
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install python2
+
+$ apt install python
+
+$ pip install wafw00f
+
+usage : 
+
+$ wafw00f -h
+
+It shows all options of wafw00f tool how you can use this tool
+
+$ wafw00f [url]
+"
+	 
+},{
+	"name": "Termux speed test",
+	"detail": "speedtest-cli this is used to find your download and 
+
+upload speed of your internet connection.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install python2
+
+$ apt install python
+
+$ pip install requests
+
+$ pip install speedtest-cli
+
+usage :
+
+$ speedtest -h 
+
+it shows all options
+
+$ speedtest
+
+Now it shows your internet's Download & upload speed.
+"
+	 
+},{
+	"name": "Termux speed test",
+	"detail": "speedtest-cli this is used to find your download and 
+
+upload speed of your internet connection.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install python2
+
+$ apt install python
+
+$ pip install requests
+
+$ pip install speedtest-cli
+
+usage :
+
+$ speedtest -h 
+
+it shows all options
+
+$ speedtest
+
+Now it shows your internet's Download & upload speed.
+"
+	 
+},{
+	"name": "Termux Ubuntu",
+	"detail": "termux-ubuntu = A script to install Ubuntu chroot in Termux
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install proot
+
+$ apt install wget
+
+$ git clone https://github.com/Neo-Oli/termux-ubuntu
+
+$ cd termux-ubuntu
+
+$ ls
+
+$ chmod +x *
+
+$ sh ubuntu.sh
+
+Run :
+
+After running it you can run start-ubuntu.sh to switch into your ubuntu
+
+$ ./start.sh
+
+Now you are in Ubuntu terminal..
+"
+	 
+},{
+	"name": "Infoga collect mail info",
+	"detail": "Infoga is a tool g@thering email accounts informations 
+
+(ip,hostname,country,...) from different public source
+
+(search engines, pgp key servers and shodan) and check
+
+if emails was leaked using h@¢ked-emails API. 
+
+Is a really simple tool, but very effective for the early 
+
+stages of a penetration test or just to know
+
+the visibility of your company in the Internet.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ git clone https://github.com/m4ll0k/Infoga
+
+$ cd Infoga
+
+$ chmod +x *
+
+$ pip2 install requests
+
+usage : 
+
+$ python2 infoga.py
+
+Now it shows all options to use this tool
+
+$ python2 infoga.py -t gmail.com -s all
+
+Now its started collecting emails and e-mails information
+
+[hostname, city, organization, longitude and latitude ports..]
+"
+	 
+},{
+	"name": "Router sploit",
+	"detail": "RouterSploit Framework = scan the routers devices and check the vulnerabilities of Routers/Devices 
+
+and exploits by the using frameworks 
+
+it consists of many more powerful modules for penetration testing operations
+
+RouterSploit installation: 
+
+Execute these commands one by one.
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install python
+
+$ apt install python2
+
+$ git clone https://github.com/reverse-shell/routersploit.git
+
+$ cd routersploit
+
+Now install These all packages step by step :
+
+$ pip2 install -r requirments-dev.txt
+
+$ pip2 install -r requirments.txt
+
+$ pip2 install request
+
+$ pip2 install requests
+
+Run routersploit:
+
+python2 rsf.py
+
+rsf> show all
+
+it's shows all modules of rotersploit
+
+rsf> use module name
+
+it shows how you can use that module
+"
+	 
+},{
+	"name": "The choice",
+	"detail": "TheChoice is a collection of 14 h@¢ker tools from @thelinuxchoice
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ git clone https://github.com/thelinuxchoice/thechoice
+
+$ cd thechoice
+
+$ chmod +x *
+
+usage :
+
+$ ./thechoice
+
+Now select your option and use it..
+"
+	 
+},{
+	"name": "Clickjacking",
+	"detail": "click jacking scanner..
+
+this script scans target site is vulnerable for this attack
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/D4Vinci/Clickjacking-Tester
+
+$ cd Clickjacking-Tester
+
+$ chmod +x *
+
+Now create here file.txt file, in this file paste victem website and save it
+
+usage : 
+
+$ python3 Clickjacking-Tester.py file.txt
+
+Now it starts scanning if target is vulnerable then it shows you..
+"
+	 
+},{
+	"name": "Owscan",
+	"detail": "OWScan
+
+Sc@n your website for vulnerabilities. Find website application vulnerabilities and fingerprint the target web application.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install php
+
+$ git clone https://github.com/Gameye98/OWScan
+
+$ cd OWScan
+
+$ chmod +x *
+
+usage :
+
+$ php owscan.php
+
+Enter target site for example : example.com .it gives you information related to your target site
+"
+	 
+},{
+	"name": "IP Geolocation",
+	"detail": "Retrieve IP Geolocation information 
+
+Features
+
+Retrieve IP or Domain Geolocation.
+
+Retrieve your own IP Geolocation.
+
+Retrieve Geolocation for IPs or Domains loaded from file. 
+
+Each target in new line.
+
+Define your own custom User Agent string.
+
+Select random User-Agent strings from file.
+
+Each User Agent string in new line.
+
+Proxy support.
+
+Select random proxy from file. Each proxy URL in new line.
+
+Open IP geolocation in Google Maps using the default browser.
+
+Export results to csv, xml and txt format.
+
+# Geolocation Information :
+
+1.ASN
+
+2.City
+
+3.Country
+
+4.Country Code
+
+5.ISP
+
+6.Latitude
+
+7.Longtitude
+
+8.Organization
+
+9.Region Code
+
+10.Region Name
+
+11.Timezone
+
+12.Zip Code
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python
+
+$ git clone https://github.com/maldevel/IPGeoLocation
+
+$ cd IPGeoLocation
+
+$ chmod +x *
+
+$ pip install -r requirements.txt
+
+Usage :
+
+$ python ipgeolocation.py -t [target ip]
+
+it gives you all information related to your target..
+"
+	 
+},{
+	"name": "Userrecon",
+	"detail": "Find usernames across over 75 social networks This is useful if you are running an investigation to determine the usage of the same username on different social networks. 
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ git clone https://github.com/thelinuxchoice/userrecon
+
+$ cd userrecon
+
+$ chmod +X *
+
+usage :
+
+$ ./userrecon.sh
+
+[?] Input username : (Here user name to find)
+
+*FOR MORE TERMUX TOOLS AND LINUX COMMANDS DOWNLOAD THIS APP👇*
+https://play.google.com/store/apps/details?id=com.termux.linux.tools.commands
+[17/02, 9:46 pm] ARsLaN: Social F!$h
+socialF!sh ultimate ph!$hing tool such as:
+
+Twitter
+
+stackoverflow
+
+wordpress
+
+github
+
+google
+
+facebook
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/UndeadSec/SocialFish.git
+
+$ cd SocialFish
+
+$ chmod +x *
+
+$ pip2 install -r requirements.txt
+
+usage :
+
+$ python2 SocialFish.py
+
+Now select your target and it will generate an url using Ngrok
+
+then it send to victem."
+	 
+},{
+	"name": "ShellP!H$H",
+	"detail": "Ph!$hing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ git clone https://github.com/thelinuxchoice/shellphish
+
+$ cd shellphish
+
+Run :
+
+$ bash shellphish.sh
+
+> select your option
+it will generates ph!$hing url ..Now send this url to victem for ph!$hing..
+"
+	 
+},{
+	"name": "Weeman",
+	"detail": "weeman is a ph!$hing tool 
+
+installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/evait-security/weeman
+
+$ cd weeman
+
+$ chmod +x *
+
+usage :
+
+$ python2 weeman.py
+
+$ set url http://target.com
+
+$ set action_url http://target.com
+
+$ run"
+	 
+},{
+	"name": "Termux-Lazy-Script",
+	"detail": "This tool is specially Designed for Termux Beginner users.
+
+This tool is very helpfull for Beginners.
+
+here simply type number of tool to use
+
+after usage press enter to launch again Termux-Lazyscript.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ git clone https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
+
+$ cd Termux-Lazyscript
+
+$ chmod +x *
+
+$ sh setup.sh
+
+usage :
+
+python2 ls.py
+
+now here simply type number to use that tool
+
+Enjoy.
+
+"
+	 
+},{
+	"name": "Recon Dog",
+	"detail": "Recon Dog is an all in one tool for all your basic information gathering needs. 
+It uses APIs to gather all the information 
+
+so your identity is not exposed. 
+
+Installaion :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ git clone https://github.com/UltimateHackers/ReconDog
+
+$ cd ReconDog
+
+$ chmod +x *
+
+usage :
+
+python2 dog.py
+
+Now select your option which you want..
+"
+	 
+},{
+	"name": "Evlurl Idn homograph",
+	"detail": "evilurl used to generate an unicode domain
+
+url for ph!$hing. For idn homograph attack
+
+install Evil-URl 
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/UndeadSec/EvilURL.git
+
+$ cd EvilURL
+
+$ chmod +x *
+
+$ ls
+
+$ python3 evilurl.py
+
+select option 1 to generate
+
+Type domain name like site.com
+
+it will generate unicode url for phishing
+
+if you want to detect any url if that one is ph!$hing url then run this tool.
+
+python3 evilurl.py
+
+select oprion 2
+
+here paste that url
+
+it detects if that url is unicode or for phishing..
+
+that's it..
+"
+	 
+},{
+	"name": "Angry fuzzer",
+	"detail": "AngryFuzzer = Tools for information gathering
+
+Discover hidden files and directories on a web server. 
+
+The application tries to find url relative paths of
+
+the given website by comparing them with a given set . 
+
+Features
+
+Fuzz url set from an input file
+
+Concurrent relative path search
+
+Configurable number of fuzzing workers
+
+Fuzz CMS ==> Wordpress,Durpal,Joomla
+
+Generate reports of the valid paths
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/ihebski/angryFuzzer 
+
+$ cd angryFuzzer 
+
+$ pip2 install -r requirements.txt
+
+$ pip2 install requests
+
+$ chmod +x *
+
+Usage :
+
+$ python2 angryFuzzer.py -h
+
+It shows all options of this tool
+
+$ python2 angryFuzzer.py -u http:site.com
+
+Now it starts collecting target information...
+"
+	 
+},{
+	"name": "Androbug framework",
+	"detail": "Androbug framework is used to check the android apps vulnerabilities
+
+to find bugs in android application. 
+
+Execute these commands one by one to install.
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/AndroBugs/AndroBugs_Framework
+
+$ cd AndroBugs_Framework
+
+$ chmod +x *
+
+usage :
+
+Now move your app to AndroBugs_Framework folder
+
+for example : 
+
+mv app.apk /$HOME/AndroBugs_Framework/ 
+
+$ python2 androbugs.py -f app.apk -o result.txt
+
+above command is used to check app bugs..
+
+app.apk = is your app name
+
+result.txt = to store all information 
+
+It shows all bugs and vulnerabilities of your app
+
+that's it
+"
+	 
+},{
+	"name": "Sqli scan",
+	"detail": "Sqliscan by dork : 
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install curl
+
+$ git clone https://github.com/thelinuxchoice/sqliscan
+
+$ cd sqliscan
+
+$ chmod +x *
+
+usage :
+
+$ ./sqliscan.sh
+
+Now enter your dorks it will start collecting all vulnerable sites related to your dork and also these sites saved in saved.txt file.
+"
+	 
+},{
+	"name": "Commix",
+	"detail": "Automated All-in-One OS command injection and exploitation tool
+
+can be used from web developers, penetration testers or even security 
+
+researchers in order to test web-based applications 
+
+with the view to find bugs, errors or vulnerabilities 
+
+related to command injection attacks. 
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ git clone https://github.com/commixproject/commix
+
+$ cd commix
+
+$ chmod +x *
+
+usage :
+
+$ python2 commix.py
+
+Now it shows how you can use this too..
+
+$ python2 commix.py -h 
+
+it shows all options...
+
+$ python2 commix.py -u site.com
+
+it shows all information...."
+	 
+},{
+	"name": "Wpseku Tool",
+	"detail": "wpseku = wordpress security scanner
+
+we can find vulnerabilities in wordpress sites
+
+this is very usefull tool
+
+installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/m4110k/WPSeku
+
+$ cd WPSeku
+
+$ chmod +x *
+
+$ pip install -r requirements.txt
+
+usage :
+
+python wpseku.py
+
+here all options are present to use this tool
+
+example :
+
+$ python wpseku.py --url http:target.com
+"
+	 
+},{
+	"name": "Nikto web scanner",
+	"detail": "Nikto web server scanner
+
+Nikto is a web server assessment tool.
+
+It is designed to find various default and insecure files,
+
+configurations and programs on any type of web server Installation:
+
+$ apt update && apt upgrade
+
+$ apt install git
+
+$ apt install perl
+
+$ git clone https://github.com/sullo/nikto
+
+$ cd nikto
+
+$ chmod +x *
+
+usage :
+
+perl nikto.pl -H
+
+it shows all options how you can use this tool"
+	 
+},{
+	"name": "Credmap check login emails",
+	"detail": "Credmap is an open source tool that was created to 
+
+bring awareness to the dangers of credential reuse.
+
+It is capable of testing supplied user credentials 
+
+on several known websites to test if the password 
+
+has been reused on any of these
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/lightos/credmap
+
+$ cd credmap
+
+$ chmod +x *
+
+usage :
+
+$ $ python2 credmap.py -h
+
+It shows all options to use this tool
+
+$ python2 credmap.py --username king --email king56@email.com
+
+king = is username of email
+
+king56@email.com = this is email to check"
+	 
+},{
+	"name": "Zrap local network tool",
+	"detail": "zarp works in rooted mobiles.
+
+this is local network exploit tool 
+
+Execute these commands one by one to install sudo.
+
+first you must install sudo in termux 
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+apt install python2
+
+$ git clone https://github.com/hatRiot/zarp
+
+$ cd zarp
+
+chmod +x zarp.py
+
+Run :
+
+sudo python2 zarp.py
+"
+	 
+},{
+	"name": "Brutal",
+	"detail": "Brutal = this is a toolkit to quickly create various payload,
+
+power$hell attack, v!®us attack.and launch listener
+
+for a human interface devices..this is extreamly useful
+
+for executing scripts on a target machin..
+
+For use this tool you must install sudo in your termux
+
+means it need rooted devices..
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git
+
+$ git clone https://github.com/Screetsec/Brutal
+
+$ cd Brutal
+
+$ chmod +x *
+
+Run :
+
+$ sudo ./Brutal.sh
+
+Now simply select your option which you want.."
+	 
+},{
+	"name": "Check URL",
+	"detail": "check url = Detect evil urls that uses IDN Homograph Attack.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/UndeadSec/checkURL
+
+$ cd checkURL
+
+$ chmod +x *
+
+usage :
+
+Now run with python3 type this command :
+
+$ python3 checkURL.py --help
+
+It shows all options..
+
+$ python3 checkURL.py --url [attackerurl]
+
+attacker url = attacker url tom check this is idn evil url or original url
+"
+	 
+},{
+	"name": "Apache2-Http Server",
+	"detail": "first update and update Termux .
+
+$ apt update
+
+$ apt upgrade
+
+Now install apache2 
+
+$ apt install apache2
+
+apache2 path =
+
+/data/data/com.termux/files/usr/share/apache2/default-site/htdocs/
+
+for Example i have a file read.txt now you must move this file to apache2 path then type this command : 
+
+$ mv read.txt /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/
+
+Now start apache2 service with this command : 
+
+$ apachectl
+
+Now opn browser and type : 
+
+localhost:8080
+
+It shows IT WORKS !
+
+Now access read.txt file with browser then type this command: 
+
+localhost:8080/read.txt 
+
+If you want to stop apache2 service then close termux application it will stop.
+
+That's it."
+	 
+},{
+	"name": "Sudo-superuser",
+	"detail": "Sudo works on only rooted devices 
+
+sudo means superuser & root command
+
+we can run root tools in termux using sudo
+
+Execute these commands one by one to install sudo.
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install tsu
+
+$ apt install ncurses-utils
+
+$ git clone https://github.com/termux-sudo
+
+$ cd termux-sudo
+$ cat sudo > /data/data/com.termux/files/usr/bin/sudo
+
+$ chmod 700 /data/data/com.termux/files/usr/bin/sudo
+
+sudo su
+
+sudo tsu
+
+Now you are a root user..
+"
+	 
+},{
+	"name": "Brute spray",
+	"detail": "BruteSpray takes nmap GNMAP/XML output and 
+
+automatically brute-forces services with default credentials using Medusa.
+
+BruteSpray can even find non-standard ports by 
+
+using the -sV inside Nmap.
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/x90skysn3k/brutespray
+
+$ cd brutespray
+
+$ pip2 install -r requirements.txt
+
+usage :
+
+$ python2 brutespray.py
+
+First do an nmap scan with 
+
+-oG nmap.gnmap or -oX nmap.xml.
+
+$ python2 brutespray.py -h
+
+$ python brutespray.py --file nmap.gnmap
+
+$ python brutesrpay.py --file nmap.xml
+
+$ python brutespray.py --file nmap.xml -i"
+	 
+},{
+	"name": "Sublister[subdomain]",
+	"detail": "Sublist3r = Fast subdomains enumeration tool for penetration testers
+
+It helps penetration testers and bug hunters 
+
+collect and gather subdomains for the domain
+
+they are targeting.
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/aboul3la/Sublist3r
+
+$ cd Sublist3r
+
+$ pip2 install requirements.txt
+
+$ pip2 install requests
+
+Run :
+
+$ python2 sublist3r.py
+
+$ python2 sublist3r.py -h
+
+it shows all options how you can use this tool
+
+$ python2 sublist3r.py -d site.com 
+
+-d = domain name
+"
+	 
+},{
+	"name": "Download any file",
+	"detail": "with the help of termux app we can download any type of files 
+
+such as..
+
+.apk, .jpg, .png, .txt, .mp3, .mp4, .md, .zip, .rar, .doc, .psd, .cdr, .eps, .anything...etc.... 
+
+first you need to install these apps from playstore
+
+1] Termux App 
+
+2] Termux API App
+
+Now open Termux and follow these steps
+
+installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install termux-api
+
+[ Downloading process: ]
+
+$ termux-download -d -t http://downlodingurl.com/file.apk
+
+after -t you need to give downloading url
+
+to download any type of file 
+
+after downloading goto your download folder"
+	 
+},{
+	"name": "Spammer grab sms tool",
+	"detail": "Spams GAC (Grab Activation Code) SMS to a phone number repeatedly per 60 second.
+
+'Spammer' uses Grab passenger API to make the GAC sms sent.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/Noxturnix/Spammer-Grab
+
+$ cd Spammer-Grab
+
+$ chmod +x *
+
+$ ./auto-install.sh
+
+Run :
+
+python2 spammer.py -h
+
+It shows all the options of this tool for use..
+
+use : 
+
+$ python2 spammer.py --delay 10 [Your number here] 
+
+Now it will start bombing on your given number.
+"
+	 
+},{
+	"name": "Create Zip File",
+	"detail": "Fisrt update and install requirments ..
+
+$ apt update
+
+$ apt upgrade
+
+$ apt install zip
+
+$ apt install unzip
+
+Creating Zip file :
+
+$ zip name.zip [your files]
+
+Here name.zip is the name for that zip file
+
+your files means = your files to make zip such as .txt .md folder .png .jpg etc..,
+
+Unzip process :
+
+$ unzip name.zip 
+
+that's it it will unzip your zip file.."
+	 
+},{
+	"name": "Veevely Backdoor Web$hell",
+	"detail": "Weevely is a stealth PHP web $hell 
+
+it simulate telnet like connections,
+
+it is an essential Tool for Web Applications post exploitation
+
+it can be used as stealth backdoor OR as a web $hell
+
+Installation
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ git clone https://github.com/glides/Weevely
+
+$ cd Weevely
+
+$ chmod +x *
+
+usage :
+
+$ python2 weevely.py
+
+It shows all options how you can use this.
+
+shell generateing process:
+
+$ python2 weevely.py generate 123456 /$HOME/shell.php
+
+123456 = is the password for shell
+
+shell.php = name for the shell
+
+it generate a shell in termux home directory"
+	 
+},{
+	"name": "Mapscii",
+	"detail": "
+$ apt update && apt upgrade
+
+To display world map in termux terminal 
+
+Type this command :
+
+$ telnet mapscii.me
+
+press a = zoomin 
+
+press z = zoom out
+
+press c = to quite
+
+use arrow keys to goto left right up down
+"
+	 
+},{
+	"name": "Optiva Framework",
+	"detail": "Optiva-Framework = Web Application Scanner
+
+Features :
+
+1.Infromation Modules 
+
+2.Hash Modules 
+
+3.Scanner Modules 
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/joker25000/Optiva-Framework
+
+$ cd Optiva-Framework
+
+$ chmod +X *
+
+$ bash installer.sh
+
+select option 3 termux and press enter
+
+usage :
+
+$ python2 optiva.py
+
+[optiva]$> help
+
+to show all options of this tool
+
+[optiva]$> info 
+
+to get some basic information
+
+[optiva]$> show modules
+
+it shows all modules of optiva framework
+
+To use any module simply type module name,
+
+it will guide yo how you can use this tool"
+	 
+},{
+	"name": "Heartbleed scanner",
+	"detail": "The heart bleed bug is a serious vulnerability in 
+
+the popular Openssl port number 443. this weakness allows stealing 
+
+the information protected,under normal conditiond by 
+
+the SSL/Tls encryption used to secure the internet.
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ git clone https://github.com/TechnicalMujeeb/HeartBleed.git 
+
+$ cd HeartBleed 
+
+$ chmod +x * 
+
+$ ./install.sh 
+
+=> usage
+
+run another script 
+
+$ ./hbleed
+
+here enter you site to check bug is present or not if present 
+
+then you can update your services and stay secure"
+	 
+},{
+	"name": "Autopixie WPS",
+	"detail": "Autopixie-WPS = this script is meant for people
+
+who wants to check if someone can gain the wpa key, 
+
+and or if you are protected from this attack Any illegal 
+
+use of this program is strictly forbidden!.
+
+FEATURES 
+
+Kill reaver as soon as e-hash2 is gained.
+
+Manual input target router without scan
+
+Wash scan > target router from scan list
+
+Save resuslts to logfile
+
+option to ignore router from wash scan if it has been cracked, 
+
+or if PixieWps failed to crack the hash
+
+remember you must have an ecternal wifi adpter 
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ pip2 install requests
+
+$ git clone https://github.com/nxxxu/AutoPixieWps
+
+$ cd AutoPixieWps
+
+$ chmod +x *
+
+Run :
+
+$ python2 autopixie.py
+
+Now select any option it will guide you.."
+	 
+},{
+	"name": "Termux Vibrate Mobile",
+	"detail": "first you need to install these apps from playstore
+
+1] Termux App 
+
+2] Termux API App
+
+Now open Termux and follow these steps
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install termux-api
+
+usage :
+
+Type this command to vibrate your device
+
+$ termux-vibrate -d 1500 -f 
+
+-d = duration 
+
+1500 = you can give any value to vibrate like 4090,etc...,
+"
+	 
+},{
+	"name": "Ngrok install in Termux",
+	"detail": "YOU NEED NGROK ACCOUNT AND THE EXTRACTED FILE ON YOUR FILE
+
+$ apt update
+
+$ apt upgrade
+
+$ cd /sdcard
+
+$ ls
+
+$ cp ngrok $HOME
+
+$ cd
+
+$ ls
+
+$ chmod +x ngrok
+
+$ ls
+
+PASTE YOUR NGROK AUGHTOKE N AND TURN ON YOUR HOTSPOT  THEN PRESS ENTER 
+"
+	 
+},{
+	"name": "Seeker [Location Finder]",
+	"detail": "By the use of following commands we can find loc@tion of some one easy.
+
+$ apt update && upgrade
+
+$ pkg install git curl php python
+
+$ git clone https://github.com/thewhiteh4t/seeker
+
+$ ls
+
+$ cd seeker
+
+$ bash install.sh
+
+$ pkg install open ssl
+
+$ pkg install openssh
+
+$ pkg install python2
+
+$ ls
+
+$ python3 seeker.py -t manual
+
+*FOR MORE TERMUX TOOLS AND LINUX COMMANDS DOWNLOAD THIS APP👇*
+https://play.google.com/store/apps/details?id=com.termux.linux.tools.commands
+[17/02, 10:03 pm] ARsLaN: T-V!®us
+by the use of following commands we can creat a strong V!®us in Termux.
+
+$ apt update
+
+$ apt upgrade -y
+
+$ pkg install git -y
+
+$ git clone https://github.com/Devil-Tigers/TigerVirus.git
+
+$ cd TigerVirus
+
+$ bash TigerVirus.sh
+"
+	 
+},{
+	"name": "Shark",
+	"detail": "$ termux-setup-storage
+
+$ pkg update -y && pkg upgrade -y && pkg install git -y
+
+$ git clone https://github.com/bhikandeshmukh/shark.git
+
+$ ls
+
+$ cd shark
+
+$ ls
+
+$ chmod +x *
+
+$ ./setup
+
+$ shark"
+	 
+},{
+	"name": "Nex-PH!$her",
+	"detail": "A very good tool for Ph!$hing. by use of following commands we can generate 30+ urls for Ph!$hing attack.
+
+$ apt update
+
+$ apt install git -y
+
+$ git clone git://github.com/htr-tech/nexphisher.git
+
+$ cd nexphisher
+
+$ bash setup
+
+$ bash termux_setup
+
+$ bash nexphisher"
+	 
+},{
+	"name": "Ravanan-PH!$HER",
+	"detail": "this is also a ph!$hing url making commands. 
+
+install commands one by one:
+
+$ apt update
+
+$ apt upgrade
+
+$ pkg install git
+
+$ git clone https://github.com/princekrvert/Ravana.git
+
+$ cd Ravana
+
+$ chmod +x ravana.sh
+
+$ ./ravana.sh"
+	 
+},{
+	"name": "Hasher",
+	"detail": "Hash cr@cker with auto detect hash in termux.
+
+Hasher is a hash crac©ker tool that has supported more than 7 types of hashes.
+
+support : 
+
+md4 
+
+md5
+
+sha1
+
+sha224
+
+sha256
+
+sha384
+
+sha512
+
+ripemd160
+
+whirlpool
+
+Execute these commands one by one to install.
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python
+
+$ apt install python2
+
+$ git clone https://github.com/ciku370/hasher
+
+cd hasher
+
+Run :
+
+python2 hash.py
+
+simply paste hashes. {hit enter} 
+
+it ask the type of hash . then select your type of hash to Decrypt it.
+"
+	 
+},{
+	"name": "Termux Colour Change",
+	"detail": "Termux colour changing.
+
+$_pkg install util-linux
+
+$_setterm -foreground xxx
+
+$_setterm -background xxx
+
+white : 
+red : 
+green : 
+black : 
+blue : 
+yellow : 
+
+*FOR MORE TERMUX TOOLS AND LINUX COMMANDS DOWNLOAD THIS APP👇*
+https://play.google.com/store/apps/details?id=com.termux.linux.tools.commands
+[17/02, 10:09 pm] ARsLaN: Bug Report Tool
+Install BUG REPORT Tool for Termux . 
+		   
+
+$  pkg install python git
+
+$  git clone https://github.com/marioyhzkiell/bugreport.git
+
+$  ls
+
+$  cd bugreport
+
+$  chmod 777 bugreport.py
+
+$  python bugreport.py"
+	 
+},{
+	"name": "Belogger",
+	"detail": "Generate Gmail Emailing Key-l0ggers to Windows..
+
+
+$ apt update && upgrade
+
+$ apt install python2
+
+$ apt install git
+
+$ git clone https://github.com/4w4k3/BeeLogger.git 
+
+Running:
+
+$ cd BeeLogger 
+
+$ sudo su 
+
+$ chmod +x install.sh 
+
+$ ./install.sh 
+
+$ python bee.py 
+
+If you have another version of Python:
+
+$ python2.7 bee.py
+"
+	 
+},{
+	"name": "Track out",
+	"detail": "TrackOut is a simple IP Tracker using Python.
+
+$ apt update
+
+$ apt upgrade -y
+
+$ apt install python
+
+$ apt install python2
+
+$ git clone https://github.com/abaykan/trackout.git
+
+$ cd trackout
+
+$ python trackout.py
+"
+	 
+},{
+	"name": "T-Remix",
+	"detail": "How to Modify and set password in Termux
+
+$ termux-setup-storage
+
+$ pkg update && pkg upgrade && pkg install git -y
+
+$ git clone https://github.com/Bhaviktutorials/T-Remix
+
+$ ls
+
+$ cd T-Remix
+
+$ ls
+
+$ chmod +x *
+
+$ bash t-remix.sh
+"
+	 
+},{
+	"name": "Install Windows in Termux",
+	"detail": "INSTALL WINDOWS BY TERMUX
+
+Script For Install Windows In Android By Termux. Without Root.
+
+First Download WIN10TP.iso File
+
+Go to http://bit.ly/wintermux.
+
+Download WIN10TP.iso file from link given above. File size is about 480mb.
+
+Put this file in download folder. don't change name of iso file.
+
+Then open termux and give following commands.
+
+• How To Install In Termux
+
+$ termux-setup-storage
+
+$ pkg up -y
+
+$ pkg install git
+
+$ git clone https://github.com/termuxprofessor/wintermux
+
+$ cd wintermux
+
+$ chmod +x wintermux.sh
+
+$ bash wintermux.sh
+
+Download and open VNC viewer app from playstore. Create new connection. Set server as 127.0.0.1:2. Then Connect.
+
+And You are Ready to Rock...."
+	 
+},
+]

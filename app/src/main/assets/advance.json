@@ -1,0 +1,69 @@
+[
+  {
+    "name": "df command",
+    "detail": "Use df command to get a report on the system’s disk space usage, shown in percentage and KBs. If you want to see the report in megabytes, type df -m."
+  },{
+    "name": "du command",
+    "detail": "If you want to check how much space a file or a directory takes, the du (Disk Usage) command is the answer. However, the disk usage summary will show disk block numbers instead of the usual size format. If you want to see it in bytes, kilobytes, and megabytes, add the -h argument to the command line."
+  },{
+    "name": "head command",
+    "detail": "The head command is used to view the first lines of any text file. By default, it will show the first ten lines, but you can change this number to your liking. For example, if you only want to show the first five lines, type head -n 5 filename.ext."
+  },{
+    "name": "head command",
+    "detail": "The head command is used to view the first lines of any text file. By default, it will show the first ten lines, but you can change this number to your liking. For example, if you only want to show the first five lines, type head -n 5 filename.ext."
+  },{
+    "name": "tail command",
+    "detail": "This one has a similar function to the head command, but instead of showing the first lines, the tail command will display the last ten lines of a text file. For example, tail -n filename.ext."
+  },{
+    "name": "diff command",
+    "detail": "Short for difference, the diff command compares the contents of two files line by line. After analyzing the files, it will output the lines that do not match. Programmers often use this command when they need to make program alterations instead of rewriting the entire source code.
+
+    The simplest form of this command is diff file1.ext file2.ext"
+  },{
+    "name": "tar command",
+    "detail": "The tar command is the most used command to archive multiple files into a tarball — a common Linux file format that is similar to zip format, with compression being optional."
+  },{
+    "name": "chmod command",
+    "detail": "chmod is another Linux command, used to change the read, write, and execute permissions of files and directories"
+  },{
+    "name": "chown command",
+    "detail": "In Linux, all files are owned by a specific user. The chown command enables you to change or transfer the ownership of a file to the specified username. For instance, chown linuxuser2 file.ext will make linuxuser2 as the owner of the file.ext."
+  },{
+    "name": "jobs command",
+    "detail": "jobs command will display all current jobs along with their statuses. A job is basically a process that is started by the shell."
+  },{
+    "name": "kill command",
+    "detail": "If you have an unresponsive program, you can terminate it manually by using the kill command. It will send a certain signal to the misbehaving app and instructs the app to terminate itself.
+
+    There is a total of sixty-four signals that you can use, but people usually only use two signals:
+    
+    SIGTERM (15) — requests a program to stop running and gives it some time to save all of its progress. If you don’t specify the signal when entering the kill command, this signal will be used.
+    SIGKILL (9) — forces programs to stop immediately. Unsaved progress will be lost.
+    Besides knowing the signals, you also need to know the process identification number (PID) of the program you want to kill. If you don’t know the PID, simply run the command ps ux.
+    
+    After knowing what signal you want to use and the PID of the program, enter the following syntax:
+    
+    kill [signal option] PID."
+  },{
+    "name": "wget command",
+    "detail": "The Linux command line is super useful — you can even download files from the internet with the help of the wget command. To do so, simply type wget followed by the download link."
+  },{
+    "name": "uname command",
+    "detail": "The uname command, short for Unix Name, will print detailed information about your Linux system like the machine name, operating system, kernel, and so on."
+  },{
+    "name": "top command",
+    "detail": "As a terminal equivalent to Task Manager in Windows, the top command will display a list of running processes and how much CPU each process uses. It’s very useful to monitor system resource usage, especially knowing which process needs to be terminated because it consumes too many resources."
+  },{
+    "name": "history command",
+    "detail": "When you’ve been using Linux for a certain period of time, you’ll quickly notice that you can run hundreds of commands every day. As such, running history command is particularly useful if you want to review the commands you’ve entered before."
+  },{
+    "name": "man command",
+    "detail": "Confused about the function of certain Linux commands? Don’t worry, you can easily learn how to use them right from Linux’s shell by using the man command. For instance, entering man tail will show the manual instruction of the tail command."
+  },{
+    "name": "echo command",
+    "detail": "This command is used to move some data into a file. For example, if you want to add the text, “Hello, my name is John” into a file called name.txt, you would type echo Hello, my name is John >> name.txt"
+  },{
+    "name": "zip, unzip command",
+    "detail": "Use the zip command to compress your files into a zip archive, and use the unzip command to extract the zipped files from a zip archive."
+  }
+]
