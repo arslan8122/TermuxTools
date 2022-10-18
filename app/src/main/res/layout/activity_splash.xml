@@ -1,37 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView   xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#182756"
     tools:context=".Splash">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+ >
 
-    <ImageView
-        android:id="@+id/imageView"
-
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/_240sdp"
-
-
-        android:layout_marginTop="@dimen/_50sdp"
-
-        android:src="@drawable/a"
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animationView"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_150sdp"
+ android:layout_marginTop="@dimen/_50ssp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"></ImageView>
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.363"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/splash" />
+    <LinearLayout
+        android:id="@+id/linView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_30ssp"
+        android:layout_marginRight="@dimen/_30ssp"
+        android:layout_marginTop="@dimen/_5ssp"
+        android:paddingBottom="@dimen/_30ssp"
+        android:orientation="vertical"
+       app:layout_constraintTop_toBottomOf="@id/SetNumber"
 
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+
+        app:layout_constraintRight_toRightOf="parent"
+
+        />
     <TextView
-        android:id="@+id/text"
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
         android:text="Linux and Termux Tools"
         android:textColor="@color/white"
         android:textSize="@dimen/_20ssp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.492"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView">
+        android:layout_marginTop="@dimen/_50ssp"
+        android:textStyle="bold"
 
-    </TextView>
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/animationView"
+        app:layout_constraintVertical_bias="0.222" />
+
+
+<!--    <Button-->
+<!--        android:layout_weight="1.5"-->
+<!--        android:id="@+id/ad_call_to_action"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:backgroundTint="#1C3173"-->
+<!--        android:gravity="center"-->
+<!--        android:textSize="12sp"-->
+<!--        />-->
+    <Button
+        android:id="@+id/SetNumber"
+        android:layout_width="match_parent"
+        android:textSize="12sp"
+        android:layout_marginLeft="@dimen/_40sdp"
+        android:layout_marginRight="@dimen/_40sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+
+        android:onClick="sendDataSplash"
+
+        android:text="Let's Go"
+
+
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.01" />
+
+
+    <!--    <ImageView-->
+<!--        android:id="@+id/imageView"-->
+
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="@dimen/_240sdp"-->
+
+
+<!--        android:layout_marginTop="@dimen/_50sdp"-->
+
+<!--        android:src="@drawable/a"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+
+<!--        app:layout_constraintTop_toTopOf="parent"></ImageView>-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/text"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Linux and Termux Tools"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="@dimen/_20ssp"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.492"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/imageView">-->
+
+<!--    </TextView>-->
 </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

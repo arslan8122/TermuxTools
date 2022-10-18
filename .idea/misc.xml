@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/drawable-mdpi/border.xml" value="0.1505" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/drawable-mdpi/splashcorner.xml" value="0.2195" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/drawable-xxxhdpi/button.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout-w1240dp/ad_unified.xml" value="0.16331994645247658" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/activity_detail.xml" value="0.21693840579710144" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/activity_linux.xml" value="0.22146739130434784" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/activity_linux_grid.xml" value="0.136" />
@@ -12,6 +15,9 @@
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/activity_splash.xml" value="0.2" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/activity_termux.xml" value="0.25" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/activity_termux_tools.xml" value="0.21693840579710144" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/ad_unified.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/ad_unified_small.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/ad_unified_splash.xml" value="0.20863616930312098" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/buttonback.xml" value="0.21195652173913043" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/content_scrolling.xml" value="0.22146739130434784" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/TermuxTools/app/src/main/res/layout/listview_layout.xml" value="0.21693840579710144" />

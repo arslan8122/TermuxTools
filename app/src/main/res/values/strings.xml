@@ -2,7 +2,7 @@
 
     <string name="app_name">Termux Tools and Linux</string>
     <string name="title_activity_termux_tools">Termux Tools and Linux </string>
-
+    <string name="ad_attribution">Ad</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
 

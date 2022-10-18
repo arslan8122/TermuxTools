@@ -112,7 +112,7 @@ public class MyApplication extends Application
     private class AppOpenAdManager {
 
         private static final String LOG_TAG = "AppOpenAdManager";
-        private static final String AD_UNIT_ID = "ca-app-pub-3940256099942544/3419835294"; //test
+        private static final String AD_UNIT_ID = AdsId.ADMOB_AD_UNIT_ID_OpenApp; //test
 //      private static final String AD_UNIT_ID = "ca-app-pub-2727672331058815/9573174478"; //production
 
 
