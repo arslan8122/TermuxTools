@@ -182,7 +182,7 @@ public class Splash extends AppCompatActivity {
                 btn.setVisibility(View.VISIBLE);
                 loader.setVisibility(View.INVISIBLE);
             }
-        },5000);
+        },6000);
 
     }
     public void startMainActivity() {

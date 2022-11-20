@@ -93,124 +93,6 @@ $   python2 scan.py
 "
 	 
 },{
-	"name": "WhatsApp with QRL H4©king",
-	"detail": "QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty att@ck vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers. 
-
-
-Installation :
-
-$ apt update && apt install git
-
-$ apt install python && apt install python3
-
-$ pip install --upgrade pip
-
-$ git clone https://github.com/OWASP/QRLJacking.git
-
-$ cd QRLJacking
-
-$ cd QRLJacker
-
-$ chmod +x *
-
-$ pip install -r requirements.txt
-
-$ python3 QrlJacker.p"
-	 
-},{
-	"name": "Facebook H4©k Tool",
-	"detail": "New Faceb00k H4¢king Tool for Termux.
-
-
-$  apt upgrade && apt update
-
-$  apt install pythen2 git
-
-$  git clone https://github.com/nasirxo/AK47
-
-$  ls
-
-$  cd AK47
-
-$  chmod +x *
-
-$  ls
-
-$  python2 ak47.py"
-	 
-},{
-	"name": "Wifi H4©k Tool",
-	"detail": "How to H4¢k Wifi WPA,WPA2,WPA2 PSK  in Tremux.
-
-
-$  apt update && apt upgrade -y
-
-$  apt install git
-
-$  apt install python2
-
-$  git clone https://github.com/derv82/wifite.git
-
-$  ls
-
-$  cd wifite
-
-$  python2 wifite.py       [open first page]
-
-$   git clone https://github.com/derv82/wifite2
-
-$  ls
-
-$  cd wifite2
-
-$  ls
-
-$  python2 Wifite.py"
-	 
-},{
-	"name": "Device Location Finder",
-	"detail": "by the using of following commands we can find our lose device location.
-
-$ apt update && apt upgrade
-
-$ pkg install wget
-
-$ gem install lolcat
-
-$ pkg install php
-
-$ pkg install toilet
-
-$ git clone https://github.com/sparkz-technology/Target.git
-
-$ cd Target
-
-$ ls
-
-$ chmod +x Target.sh
-
-$ bash Target.sh"
-	 
-},{
-	"name": "Check covid Updates with Termux",
-	"detail": "Corona Live Report View Use Termux, Terminal 
-
-Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain.
-
-Installed 
-
-$  apt install nodejs
-
-$  npm install -g corona-cli
-
-$  corona
-
----------------------------------------------------
-# Display the help data.
-$  corona help 
-$  corona --help"
-	 
-},{
 	"name": "A-Rat Remote Access",
 	"detail": "A-Rat = Remote access tool
 
@@ -274,74 +156,6 @@ press control + c to stop"
 	 
 },
 {
-	"name": "Pubg P!$HING",
-	"detail": "With the help of bellow commands we can generate Ph!$hing url for PUB-G.
-
-Install one by one:
-
-$ pkg update -y
-
-$ pkg upgrade -y
-
-$ pkg install git 
-
-$ git clone https://github.com/OnlineHacKing/PUBG-Phishing.git
-
-$ cd PUBG-Phishing
-
-$ chmod +x *
-
-$ ./Android-Setup
-
-now copy and send the link to your friend or victem.
-"
-	 
-},{
-	"name": "Free-Fire P!$HING",
-	"detail": "By using the following commands we can generate Ph!$hing url for Free-Fire.
-
-$ pkg update -y
-
-$ pkg upgrade -y 
-
-$ pkg install git 
-
-$ git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git 
-
-$ cd FreeFire-Phishing 
-
-$ chmod +x *
-
-$ ./Android-Setup
-"
-	 
-},{
-	"name": "Choice Bot[Instagram Tool]",
-	"detail": "Choicebot is a bot written in Shell Script (the first one) to perform 'likes', 'comments' and 'follows' based on hastags.
-
-Installation :
-
-$ apt update && apt upgrade
-
-$ apt install git 
-
-$ apt install curl
-
-$ apt install nano
-
-$ git clone https://github.com/thelinuxchoice/choicebot
-
-$ cd choicebot
-
-$ chmod +x *
-
-usage :
-
-$ nano hashtags.txt (put your hashtags here)
-
-$ ./choicebot.sh"
-	 
-},{
 	"name": "Termux shell",
 	"detail": "Beautify your Termux App .
 
@@ -512,31 +326,6 @@ $ sh TUANB4DUT.sh
 "
 	 
 },{
-	"name": "Black_Eye",
-	"detail": "The most complete Ph!$h!ng Tool, with 32 templates +1 customizable
-
-Installation :
-
-$ apt update && apt upgrade
-
-$ apt install git
-
-$ apt install curl
-
-$ git clone https://github.com/thelinuxchoice/blackeye
-
-$ cd blackeye
-
-$ chmod +x *
-
-Run :
-
-$ bash blackeye.sh
-
-Now select your option it will generate an url for P!$h!ng..
-"
-	 
-},{
 	"name": "Cmseek Suit",
 	"detail": "CMS Detection and Exploitation suite - Sc@n WordPress, Joomla, Drupal and 100 other CMSs
 
@@ -622,50 +411,6 @@ $ python2 crips.py
 
 Now select your option, this tool can guide you easily..
 "
-	 
-},{
-	"name": "Cyber Scan",
-	"detail": "CyberScan is an open source penetration testing tool 
-
-that can analyse packets , decoding , scanning ports, 
-
-pinging and geolocation of an IP including
-
-(latitude, longitude , region , country ...)
-
-Installation :
-
-$ apt update && apt upgrade
-
-$ apt install git 
-
-$ apt install python2
-
-$ apt install python
-
-$ git clone https://github.com/medbenali/CyberScan.git
-
-$ cd CyberScan
-
-usage :
-
-$ python2 CyberScan.py -v
-
-$ CyberScan -h
-
-We can perform ping operations with several protocols using CyberScan
-
-The fastest way to discover hosts on a local Ethernet network
-
-is to use ARP:
-
-$ python2 CyberScan -s 192.168.1.0/24 -p arp
-
-In case when ICMP echo requests are blocked, we can still use TCP:
-
-$ CyberScan -s 192.168.1.105 -p tcp -d 80
-
-192.168.1.105 = target IP"
 	 
 },{
 	"name": "Dos-webserver Tools",
@@ -858,24 +603,6 @@ $ clang xerxes.c -o xerxes
 $ ./xerxes www.fakesite.com 80
 
 now enjoy from tool..."
-	 
-},{
-	"name": "W Root User in Termux",
-	"detail": "with the following commands we can become A root user in Termux.
-
-$ cd termux-sudo
-
-$ pkg install ncurses-utils
-
-$ pkg install tsu
-
-$ cat sudo > /data/data/com.termux/files/isr/bin/sudo
-
-$ chmod 700 /data/data/com.termux/files/usr/bin/sudo
-
-$ sudo su
-
-$ sudo tsu"
 	 
 },{
 	"name": "Word List Generator",
@@ -1234,53 +961,6 @@ Usage :
 $ python hakku"
 	 
 },{
-	"name": "MR-PH!$H Tool",
-	"detail": "REQUIREMENTS :
-internet 400
-php
-storage 600 MB
-ngrok Token
-FEATURES :
-
-[+] 60+ uptodate pages !
-[+] Updated maintainence !
-[+] 1 Port Forwarding Option !
-[+] No link issues, timing !
-[+] 5+ categories in pages !
-[+] Easy for Beginners !
-
-
-INSTALLATION [Termux] :
-
-$ apt-get update -y
-
-$ apt-get upgrade -y
-
-$ pkg install python -y
-
-$ pkg install python2 -y
-
-$ pkg install git -y
-
-$ pip install lolcat
-
-$ git clone https://github.com/noob-hackers/mrphish
-
-$ cd $HOME
-
-$ ls
-
-$ cd mrphish
-
-$ ls
-
-$ bash setup
-
-$ bash mrphish
-
-Now enjoy from this tool..."
-	 
-},{
 	"name": "Grab-cam Tool",
 	"detail": "Grabcam is a bash based script which is officially made for termux from this tool can h@*k you victims c@mera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
@@ -1322,42 +1002,6 @@ $ bash grabcam.sh
 to see captured images >>> ls mv (image name with .png) /sdcard
 
 Now go and chek your gallery for victim im@ge..."
-	 
-},{
-	"name": "Lock-P!$H Tool",
-	"detail": "H@cklock is a bash based script which is officially termux from this tool in just one click you can generate pattern ph!$hing tool which can h4ck victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
-
-INSTALLATION [Termux] :
-
-$ apt-get update -y
-
-$ apt-get upgrade -y
-
-$ pkg install python -y
-
-$ pkg install python2 -y
-
-$ pkg install git -y
-
-$ pip install lolcat
-
-$ git clone https://github.com/noob-hackers/hacklock
-
-$ cd $HOME
-
-$ ls
-
-$ cd hacklock
-
-$ ls
-
-$ bash setup
-
-$ bash hacklock.sh
-
-[+]--Now you need internet connection to continue further process and Turn on your device hotspot to get link... 
-[+]--You will recieve patter pin in below image you can see pattern with numbers 
-"
 	 
 },{
 	"name": "Kalimux",
@@ -1500,33 +1144,6 @@ $ ls
 $ bash infect.sh
 
 now enjoy from tool..."
-	 
-},{
-	"name": "ZP!$HER",
-	"detail": "A beginners friendly, Automated ph!$hing tool with 30+ templates.
-
-Installation
-
-$ apt update
-
-$ apt upgrade
-
-$ apt install python
-
-$ apt install git
-
-$ git clone git://github.com/htr-tech/zphisher.git 
-
-Change to cloned directory and run
-
-$ zphisher.sh
-
-$ cd zphisher 
-
-$ bash zphisher.sh 
-
-On first launch, It'll install the dependencies and that's it.Zph!$her is installed.
-"
 	 
 },{
 	"name": "Tunnel",
@@ -1699,31 +1316,6 @@ Run
 terbr"
 	 
 },{
-	"name": "H4©k Voice",
-	"detail": "With the help of this Tool we can H@©k any android device Voice ®ecorder.
-
-Installation:
-
-$ apt update && upgrade
-
-$ apt install python
-
-$ apt install git
-
-$ git clone git://github.com/Noob-Junk/voice.git
-
-$ ls 
-
-$ cd voice 
-
-$ ls 
-
-$ bash voice.sh
-
-Now enjoy the tool...
-"
-	 
-},{
 	"name": "Short-url",
 	"detail": "Short Url is a tool to short url.This tool uses TinyURL's Ap!. It is created for Educational Purpose only.
 
@@ -1823,30 +1415,6 @@ $ ./saycheese.sh
 
 Now enjoy from tool...
 "
-	 
-},{
-	"name": "Adv Ph!$h",
-	"detail": "The best tool for many social media. like tik-tok, whats-app, pub-g etc...
-
-INSTALLATION [ TERMUX APP --ANDROID ]
-
-
-$ apt update && upgrade -y
-
-$ apt install python2
-
-$ apt install git
-
-$ git clone https://github.com/Ignitetch/AdvPhishing.git
-
-$ cd AdvPhishing/
-chmod 777 *
-
-$ ./Android-Setup.sh
-
-$ ./AdvPhishing.sh
-
-Now enjoy from tool..."
 	 
 },{
 	"name": "Email Bomber",
@@ -2237,51 +1805,6 @@ Now you are in Ubuntu terminal..
 "
 	 
 },{
-	"name": "Infoga collect mail info",
-	"detail": "Infoga is a tool g@thering email accounts informations 
-
-(ip,hostname,country,...) from different public source
-
-(search engines, pgp key servers and shodan) and check
-
-if emails was leaked using h@¢ked-emails API. 
-
-Is a really simple tool, but very effective for the early 
-
-stages of a penetration test or just to know
-
-the visibility of your company in the Internet.
-
-Installation :
-
-$ apt update && apt upgrade
-
-$ apt install git 
-
-$ apt install python2
-
-$ git clone https://github.com/m4ll0k/Infoga
-
-$ cd Infoga
-
-$ chmod +x *
-
-$ pip2 install requests
-
-usage : 
-
-$ python2 infoga.py
-
-Now it shows all options to use this tool
-
-$ python2 infoga.py -t gmail.com -s all
-
-Now its started collecting emails and e-mails information
-
-[hostname, city, organization, longitude and latitude ports..]
-"
-	 
-},{
 	"name": "Router sploit",
 	"detail": "RouterSploit Framework = scan the routers devices and check the vulnerabilities of Routers/Devices 
 
@@ -2550,58 +2073,6 @@ $ python2 SocialFish.py
 Now select your target and it will generate an url using Ngrok
 
 then it send to victem."
-	 
-},{
-	"name": "ShellP!H$H",
-	"detail": "Ph!$hing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest
-
-Installation :
-
-$ apt update && apt upgrade
-
-$ apt install git 
-
-$ git clone https://github.com/thelinuxchoice/shellphish
-
-$ cd shellphish
-
-Run :
-
-$ bash shellphish.sh
-
-> select your option
-it will generates ph!$hing url ..Now send this url to victem for ph!$hing..
-"
-	 
-},{
-	"name": "Weeman",
-	"detail": "weeman is a ph!$hing tool 
-
-installation :
-
-$ apt update 
-
-$ apt upgrade
-
-$ apt install git
-
-$ apt install python2
-
-$ git clone https://github.com/evait-security/weeman
-
-$ cd weeman
-
-$ chmod +x *
-
-usage :
-
-$ python2 weeman.py
-
-$ set url http://target.com
-
-$ set action_url http://target.com
-
-$ run"
 	 
 },{
 	"name": "Termux-Lazy-Script",
@@ -3016,38 +2487,6 @@ sudo python2 zarp.py
 "
 	 
 },{
-	"name": "Brutal",
-	"detail": "Brutal = this is a toolkit to quickly create various payload,
-
-power$hell attack, v!®us attack.and launch listener
-
-for a human interface devices..this is extreamly useful
-
-for executing scripts on a target machin..
-
-For use this tool you must install sudo in your termux
-
-means it need rooted devices..
-
-Installation :
-
-$ apt update && apt upgrade
-
-$ apt install git
-
-$ git clone https://github.com/Screetsec/Brutal
-
-$ cd Brutal
-
-$ chmod +x *
-
-Run :
-
-$ sudo ./Brutal.sh
-
-Now simply select your option which you want.."
-	 
-},{
 	"name": "Check URL",
 	"detail": "check url = Detect evil urls that uses IDN Homograph Attack.
 
@@ -3335,46 +2774,6 @@ $ unzip name.zip 
 that's it it will unzip your zip file.."
 	 
 },{
-	"name": "Veevely Backdoor Web$hell",
-	"detail": "Weevely is a stealth PHP web $hell 
-
-it simulate telnet like connections,
-
-it is an essential Tool for Web Applications post exploitation
-
-it can be used as stealth backdoor OR as a web $hell
-
-Installation
-
-$ apt update && apt upgrade
-
-$ apt install git 
-
-$ apt install python2
-
-$ git clone https://github.com/glides/Weevely
-
-$ cd Weevely
-
-$ chmod +x *
-
-usage :
-
-$ python2 weevely.py
-
-It shows all options how you can use this.
-
-shell generateing process:
-
-$ python2 weevely.py generate 123456 /$HOME/shell.php
-
-123456 = is the password for shell
-
-shell.php = name for the shell
-
-it generate a shell in termux home directory"
-	 
-},{
 	"name": "Mapscii",
 	"detail": "
 $ apt update && apt upgrade
@@ -3645,44 +3044,6 @@ $ chmod +x *
 $ ./setup
 
 $ shark"
-	 
-},{
-	"name": "Nex-PH!$her",
-	"detail": "A very good tool for Ph!$hing. by use of following commands we can generate 30+ urls for Ph!$hing attack.
-
-$ apt update
-
-$ apt install git -y
-
-$ git clone git://github.com/htr-tech/nexphisher.git
-
-$ cd nexphisher
-
-$ bash setup
-
-$ bash termux_setup
-
-$ bash nexphisher"
-	 
-},{
-	"name": "Ravanan-PH!$HER",
-	"detail": "this is also a ph!$hing url making commands. 
-
-install commands one by one:
-
-$ apt update
-
-$ apt upgrade
-
-$ pkg install git
-
-$ git clone https://github.com/princekrvert/Ravana.git
-
-$ cd Ravana
-
-$ chmod +x ravana.sh
-
-$ ./ravana.sh"
 	 
 },{
 	"name": "Hasher",

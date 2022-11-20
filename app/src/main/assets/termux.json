@@ -112,31 +112,6 @@ $   python2 scan.py
 "
              
         },{
-            "name": "WhatsApp with QRL H4©king",
-            "detail": "QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty att@ck vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers. 
-
-
-Installation :
-
-$ apt update && apt install git
-
-$ apt install python && apt install python3
-
-$ pip install --upgrade pip
-
-$ git clone https://github.com/OWASP/QRLJacking.git
-
-$ cd QRLJacking
-
-$ cd QRLJacker
-
-$ chmod +x *
-
-$ pip install -r requirements.txt
-
-$ python3 QrlJacker.p"
-             
-        },{
             "name": "Device Location Finder",
             "detail": "by the using of following commands we can find our lose device location.
 
@@ -243,48 +218,6 @@ press control + c to stop"
              
         },
 {
-            "name": "Pubg P!$HING",
-            "detail": "With the help of bellow commands we can generate Ph!$hing url for PUB-G.
-
-Install one by one:
-
-$ pkg update -y
-
-$ pkg upgrade -y
-
-$ pkg install git 
-
-$ git clone https://github.com/OnlineHacKing/PUBG-Phishing.git
-
-$ cd PUBG-Phishing
-
-$ chmod +x *
-
-$ ./Android-Setup
-
-now copy and send the link to your friend or victem.
-"
-             
-        },{
-            "name": "Free-Fire P!$HING",
-            "detail": "By using the following commands we can generate Ph!$hing url for Free-Fire.
-
-$ pkg update -y
-
-$ pkg upgrade -y 
-
-$ pkg install git 
-
-$ git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git 
-
-$ cd FreeFire-Phishing 
-
-$ chmod +x *
-
-$ ./Android-Setup
-"
-             
-        },{
             "name": "Choice Bot[Instagram Tool]",
             "detail": "Choicebot is a bot written in Shell Script (the first one) to perform 'likes', 'comments' and 'follows' based on hastags.
 
@@ -1322,53 +1255,6 @@ Usage :
 $ python hakku"
              
         },{
-            "name": "MR-PH!$H Tool",
-            "detail": "REQUIREMENTS :
-internet 400
-php
-storage 600 MB
-ngrok Token
-FEATURES :
-
-[+] 60+ uptodate pages !
-[+] Updated maintainence !
-[+] 1 Port Forwarding Option !
-[+] No link issues, timing !
-[+] 5+ categories in pages !
-[+] Easy for Beginners !
-
-
-INSTALLATION [Termux] :
-
-$ apt-get update -y
-
-$ apt-get upgrade -y
-
-$ pkg install python -y
-
-$ pkg install python2 -y
-
-$ pkg install git -y
-
-$ pip install lolcat
-
-$ git clone https://github.com/noob-hackers/mrphish
-
-$ cd $HOME
-
-$ ls
-
-$ cd mrphish
-
-$ ls
-
-$ bash setup
-
-$ bash mrphish
-
-Now enjoy from this tool..."
-             
-        },{
             "name": "Grab-cam Tool",
             "detail": "Grabcam is a bash based script which is officially made for termux from this tool can h@*k you victims c@mera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
@@ -1410,42 +1296,6 @@ $ bash grabcam.sh
 to see captured images >>> ls mv (image name with .png) /sdcard
 
  Now go and chek your gallery for victim im@ge..."
-             
-        },{
-            "name": "Lock-P!$H Tool",
-            "detail": "H@cklock is a bash based script which is officially termux from this tool in just one click you can generate pattern ph!$hing tool which can h4ck victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
-
-INSTALLATION [Termux] :
-
-$ apt-get update -y
-
-$ apt-get upgrade -y
-
-$ pkg install python -y
-
-$ pkg install python2 -y
-
-$ pkg install git -y
-
-$ pip install lolcat
-
-$ git clone https://github.com/noob-hackers/hacklock
-
-$ cd $HOME
-
-$ ls
-
-$ cd hacklock
-
-$ ls
-
-$ bash setup
-
-$ bash hacklock.sh
-
-[+]--Now you need internet connection to continue further process and Turn on your device hotspot to get link... 
-[+]--You will recieve patter pin in below image you can see pattern with numbers 
-"
              
         },{
             "name": "Kalimux",
@@ -1588,33 +1438,6 @@ $ ls
 $ bash infect.sh
 
 now enjoy from tool..."
-             
-        },{
-            "name": "ZP!$HER",
-            "detail": "A beginners friendly, Automated ph!$hing tool with 30+ templates.
-
-Installation
-
-$ apt update
-
-$ apt upgrade
-
-$ apt install python
-
-$ apt install git
-
-$ git clone git://github.com/htr-tech/zphisher.git 
-
-Change to cloned directory and run 
-
-$ zphisher.sh
-
-$ cd zphisher 
-
-$ bash zphisher.sh 
-
-On first launch, It'll install the dependencies and that's it. Zph!$her is installed.
-"
              
         },{
             "name": "Tunnel",
@@ -1787,31 +1610,6 @@ Run
 terbr"
              
         },{
-            "name": "H4©k Voice",
-            "detail": "With the help of this Tool we can H@©k any android device Voice ®ecorder.
-
-Installation:
-
-$ apt update && upgrade
-
-$ apt install python
-
-$ apt install git
-
-$ git clone git://github.com/Noob-Junk/voice.git
-
- $ ls 
-
-$ cd voice 
-
-$ ls 
-
-$ bash voice.sh
-
-Now enjoy the tool...
-"
-             
-        },{
             "name": "Short-url",
             "detail": "Short Url is a tool to short url.This tool uses TinyURL's Ap!. It is created for Educational Purpose only.
 
@@ -1911,30 +1709,6 @@ $ ./saycheese.sh
 
 Now enjoy from tool...
 "
-             
-        },{
-            "name": "Adv Ph!$h",
-            "detail": "The best tool for many social media. like tik-tok, whats-app, pub-g etc...
-
-INSTALLATION [ TERMUX APP --ANDROID ]
-
-
-$ apt update && upgrade -y
-
-$ apt install python2
-
-$ apt install git
-
-$ git clone https://github.com/Ignitetch/AdvPhishing.git
-
-$ cd AdvPhishing/
-chmod 777 *
-
-$ ./Android-Setup.sh
-
-$ ./AdvPhishing.sh
-
-Now enjoy from tool..."
              
         },{
             "name": "Email Bomber",
@@ -2609,28 +2383,6 @@ $ python2 SocialFish.py
 Now select your target and it will generate an url using Ngrok
 
 then it send to victem."
-             
-        },{
-            "name": "ShellP!H$H",
-            "detail": "Ph!$hing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest
-
-Installation :
-
-$ apt update && apt upgrade
-
-$ apt install git 
-
-$ git clone https://github.com/thelinuxchoice/shellphish
-
-$ cd shellphish
-
-Run :
-
-$ bash shellphish.sh
-
-> select your option
-it will generates ph!$hing url ..Now send this url to victem for ph!$hing..
-"
              
         },{
             "name": "Weeman",
@@ -3722,26 +3474,6 @@ $ bash setup
 $ bash termux_setup
 
 $ bash nexphisher"
-             
-        },{
-            "name": "Ravanan-PH!$HER",
-            "detail": "this is also a ph!$hing url making commands. 
-
-install commands one by one:
-
-$ apt update
-
-$ apt upgrade
-
-$ pkg install git
-
-$ git clone https://github.com/princekrvert/Ravana.git
-
-$ cd Ravana
-
-$ chmod +x ravana.sh
-
-$ ./ravana.sh"
              
         },{
             "name": "Hasher",
